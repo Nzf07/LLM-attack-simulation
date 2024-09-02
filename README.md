@@ -1,4 +1,3 @@
-.
 # University of Warwick Thesis-5579496
 # LLM-attack-simulation
 #### Read the following file carefully!
