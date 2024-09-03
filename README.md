@@ -25,6 +25,4 @@ openai.api_key  = getpass("Please enter your OpenAI API Key: ")
 Depending on the environment the notebook is being run in, if it is a Google Colab session then the user might need to restart a session and run the cells again. 
 
 
-## NOTE: This code is functional as of 2 September 2024!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazeef-hasan-khan/)
+## NOTE: This code is functional as of 3 September 2024!
